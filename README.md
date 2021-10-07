@@ -1,2 +1,2 @@
 # m6
-M6-Forecasting competition
+M6-Forecasting competition utilities
