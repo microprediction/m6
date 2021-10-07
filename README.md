@@ -2,6 +2,11 @@
 
 Some resources related to the M6-Forecasting competition.
 
+### Official rules
+
+- [Contest site](https://mofc.unic.ac.cy/the-m6-competition/)
+- [Rules]
+
 ### Python time-series packages 
 
 - [Elo ratings](https://microprediction.github.io/timeseries-elo-ratings/html_leaderboards/overall.html) of autonomous time-series prediction algorithms judged against live data. 
