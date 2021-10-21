@@ -17,6 +17,7 @@ Some resources related to the M6-Forecasting competition.
 - [Public API](https://www.microprediction.com/public-api) for time-series
 - Example [csv](https://csv.microprediction.org/lagged?name=electricity-fueltype-nyiso-hydro.json)
 - [Tutorial](https://www.microprediction.com/python-3) on retrieving time-series data using microprediction package. 
+- [IEX](https://iexcloud.io/docs/api/) API and [example scripts](https://github.com/numerai/signals-example-scripts/blob/master/iexcloud/dividends.py) from Numerai
 
 
 ### Articles 
