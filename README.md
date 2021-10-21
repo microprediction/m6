@@ -1,6 +1,6 @@
 # m6
 
-Some resources related to the M6-Forecasting competition.
+Some resources related to the M6-Forecasting competition. Pull requests welcome. 
 
 ### Official rules
 
