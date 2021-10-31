@@ -6,6 +6,7 @@ Some resources related to the M6-Forecasting competition. Pull requests welcome.
 
 - [Contest site](https://mofc.unic.ac.cy/the-m6-competition/)
 - [Rules](https://github.com/microprediction/m6/blob/main/docs/M6-forecasting-competition-Guidelines-20210908.pdf) as of Oct 7, 2021
+- [Rule clarifications](https://github.com/microprediction/m6/blob/main/docs/clarifications.md)
 
 ### Python time-series packages 
 
