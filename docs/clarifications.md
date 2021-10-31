@@ -1,3 +1,4 @@
+These are my efforts to clarify the rules. They are not the official rules.
 
 ## Benchark portfolio
 
