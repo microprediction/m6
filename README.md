@@ -9,6 +9,7 @@ Some resources related to the M6-Forecasting competition. Pull requests welcome.
 - [Rule clarifications](https://github.com/microprediction/m6/blob/main/docs/clarifications.md)
 
 ### Python time-series packages 
+See also [PYTHON_PACKAGES.md](https://github.com/microprediction/m6/blob/main/PYTHON_PACKAGES.md)
 
 - [Elo ratings](https://microprediction.github.io/timeseries-elo-ratings/html_leaderboards/overall.html) of autonomous time-series prediction algorithms judged against live data. 
 - [Listing](https://www.microprediction.com/blog/popular-timeseries-packages) of popular Python time-series packages, including features, causality and so forth.
