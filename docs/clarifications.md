@@ -10,7 +10,7 @@ I'm assuming the former.
 
 ## Benchark portfolio
 
-The information ratio is undefined if benchmark is the portfolio with no assets.  
+The information ratio is undefined if benchmark is the portfolio with no assets. Just an observation.  
 
 ## Default
 
@@ -25,3 +25,6 @@ If a company is acquired ...
 ## Dividends
 
 Do the computed returns include dividends? 
+
+(That's how I read it). 
+
