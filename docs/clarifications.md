@@ -1,8 +1,16 @@
 These are my efforts to clarify the rules. They are not the official rules.
 
+## Investment performance
+Is the investment intended to be:
+
+ * One large portfolio comprising stocks and ETFS
+ * Five portfolios of at most 5 stocks, and another five portfolios of at most 5 ETFs each? 
+
+I'm assuming the former. 
+
 ## Benchark portfolio
 
-Information ratio is undefined if benchmark is the portfolio with no assets? 
+The information ratio is undefined if benchmark is the portfolio with no assets.  
 
 ## Default
 
