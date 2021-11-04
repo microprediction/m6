@@ -25,6 +25,13 @@ How are information ratios combined across the overlapping time-periods, and pos
 
 Denominator and numerator are totalled first, leading to a single information ratio. 
 
+### Question 1(c):
+
+Should the return formula be modified to account for shorts? 
+
+  1 + \sum.   w_i  \left( \frac{S'}{S} - 1 \right) 
+
+We can't collect the -1 unless sum w_i=1 which is not true if there are shorts. 
 
 
 ## 2. Benchark portfolio
