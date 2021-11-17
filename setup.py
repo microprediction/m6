@@ -7,7 +7,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="m6",
-    version="0.0.2",
+    version="0.0.3",
     description="Utilities for M6 Financial Forecasting Competition",
     long_description=README,
     long_description_content_type="text/markdown",
