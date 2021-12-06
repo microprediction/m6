@@ -1,8 +1,9 @@
 # m6
 
-Some resources related to the M6-Forecasting competition. Pull requests welcome. 
+Some resources related to the M6-Forecasting competition. This site maintained by one of the sponsors, Intech Investments. Always refer to the official rules. 
+Pull requests are welcome. 
 
-### Official rules
+### Official rules & contest site
 
 - [Contest site](https://mofc.unic.ac.cy/the-m6-competition/)
 - [Rules](https://github.com/microprediction/m6/blob/main/docs/M6-forecasting-competition-Guidelines-20210908.pdf) as of Oct 7, 2021
