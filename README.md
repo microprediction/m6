@@ -9,6 +9,11 @@ Pull requests are welcome.
 - [Rules](https://github.com/microprediction/m6/blob/main/docs/M6-forecasting-competition-Guidelines-20210908.pdf) as of Oct 7, 2021
 - [Rule clarifications](https://github.com/microprediction/m6/blob/main/docs/clarifications.md)
 
+
+### Analytical tools for 5-way rank probabilities 
+
+Coming soon. 
+
 ### Python time-series packages 
 See also [PYTHON_PACKAGES.md](https://github.com/microprediction/m6/blob/main/PYTHON_PACKAGES.md)
 
