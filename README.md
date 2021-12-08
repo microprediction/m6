@@ -21,6 +21,7 @@ See also [PYTHON_PACKAGES.md](https://github.com/microprediction/m6/blob/main/PY
 - [Listing](https://www.microprediction.com/blog/popular-timeseries-packages) of popular Python time-series packages, including features, causality and so forth.
 
 ### Practice data 
+Much more once the portfolios are announced. Stay tuned for [live streams](https://www.microprediction.org/browse_streams.html) and predictions of the same, if you suspect that short-horizon co-dependencies and volatilities might somehow relate to longer horizons. 
 
 - [Public API](https://www.microprediction.com/public-api) for time-series
 - Example [csv](https://csv.microprediction.org/lagged?name=electricity-fueltype-nyiso-hydro.json)
