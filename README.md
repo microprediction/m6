@@ -1,7 +1,6 @@
 # m6
 
 Some resources related to the M6-Forecasting competition. This site maintained by one of the sponsors, Intech Investments. Always refer to the official rules. 
-Pull requests are welcome. 
 
 ### Official rules & contest site
 
