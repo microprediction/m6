@@ -12,7 +12,7 @@ Pull requests are welcome.
 
 ### Analytical tools for 5-way rank probabilities 
 
-Coming soon. 
+- Paper soon. See [notebook examples](https://github.com/microprediction/m6/tree/main/notebook_examples) 
 
 ### Python time-series packages 
 See also [PYTHON_PACKAGES.md](https://github.com/microprediction/m6/blob/main/PYTHON_PACKAGES.md)
