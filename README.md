@@ -1,6 +1,6 @@
 # m6
 
-Some resources related to the M6-Forecasting competition. This site maintained by an employee of one of the
+Some resources related to the M6-Forecasting competition. This site maintained by yours truly, an employee of one of the
 contest sponsors, [Intech Investments](https://www.intechinvestments.com/) and is provided subject to the MIT License (and all disclaimers therein). Nothing here should be construed as investment advice, or even contest entry advice. Always refer to the official rules. 
 
 ### Official rules & contest site
