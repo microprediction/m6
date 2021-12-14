@@ -8,3 +8,4 @@ Related literature
 ### Combining, shrinking
 
 * [Optimal and Robust combination of Forecasts](https://www.researchgate.net/publication/340413140_Optimal_and_Robust_Combination_of_Forecasts_via_Constrained_Optimization_and_Shrinkage)
+* [A Well-conditioned Estimator For Large-Dimensional Covariance Matrices](http://www.ledoit.net/ole1a.pdf)
