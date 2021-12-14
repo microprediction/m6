@@ -13,4 +13,5 @@ Potentially useful Python packages for M6-Financial Forecasting Competition
 
 * [QLib](https://github.com/microsoft/qlib)
 
-See also [Popular Python Time-Series Packages](https://www.microprediction.com/blog/popular-timeseries-packages) which includes a list of backtesting packages (scroll down)
+See also [Popular Python Time-Series Packages](https://www.microprediction.com/blog/popular-timeseries-packages) which includes a list of backtesting packages (scroll down) and forecasting packages. 
+
