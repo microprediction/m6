@@ -3,8 +3,10 @@ Potentially useful Python packages for M6-Financial Forecasting Competition
 
 ## Portfolio optimization
 
+* [DeepDow](https://deepdow.readthedocs.io/en/latest/source/introduction.html#name)
 * [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt#objective-functions)
 * [HumpDay](https://github.com/microprediction/humpday)
+
 
 ## Backtesting etc
 
