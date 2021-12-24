@@ -46,12 +46,16 @@ Why is the benchmark chosen to be the zero portfolio (rather than say, equal pos
 
 ## Question(s)
 
- 3a. If a company defaults, will the RET for the day be -1 and 0 thereafter? 
- 3b. If a company defaults, will the rank be 1 (or 1.5 if two companies default)? 
- 3c. If a company de-lists, will the rank be 1 (or 1.5 if two de-list, etc)? 
- 3d. If a company is taken private, will the last recorded stock price persist into the future? 
- 3e. If a company is aquired, will the last recorded stock price persist into the future? 
- 
+   3a. If a company defaults, will the RET for the day be -1 and 0 thereafter? 
+
+   3b. If a company defaults, will the rank be 1 (or 1.5 if two companies default)? 
+
+   3c. If a company de-lists, will the rank be 1 (or 1.5 if two de-list, etc)? 
+
+   3d. If a company is taken private, will the last recorded stock price persist into the future? 
+
+   3e. If a company is aquired, will the last recorded stock price persist into the future? 
+
 ## Working assumption:
 
 As inferred from the questions. 
