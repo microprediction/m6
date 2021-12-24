@@ -65,3 +65,17 @@ Do the prices used include dividends?
 ### Working assumption
 
 Yes, and pretty clearly indicated by the wording "total return". Same for stock splits. 
+
+
+## Rounding
+
+At present the rules state that submissions not summing to unity will be disqualified. However this is a set of measure zero. In theory it is still a proper scoring rule without the constraint so one might wonder if it is necessary at all. 
+
+### Question
+
+What is the tolerance for sum of probabilities? 
+
+
+
+
+
