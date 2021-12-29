@@ -36,6 +36,8 @@ Much more once the portfolios are announced. Stay tuned for [live streams](https
 - [How to train for the M6 Financial Foreasting Competition](https://microprediction.medium.com/six-ways-to-train-for-the-m6-financial-forecasting-competition-cacaf3af58b5)
 - [The future of forecasting competitions, according to the experts](https://www.microprediction.com/blog/future)
 
+- [How Good is Your Algorithm at Predicting Stock Prices Really?](https://medium.com/adventures-in-data-science/how-good-is-your-algorithm-at-predicting-stock-prices-really-38a2d450c9eb)
+
 See [ARTICLES.md](https://github.com/microprediction/m6/blob/main/ARTICLES.md) for more. 
 
 ### Practice contests
