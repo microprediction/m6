@@ -42,8 +42,8 @@ See [ARTICLES.md](https://github.com/microprediction/m6/blob/main/ARTICLES.md) f
 
 ### Practice contests
 
-- [Daily contest](https://www.microprediction.com/competitions/daily) for short-term distributional prediction of crypto-currencies
-- [Electricity prediction contest](https://www.microprediction.com/competitions/electricity)
+- [Daily $125 contest](https://www.microprediction.com/competitions/daily) for short-term distributional prediction of crypto-currencies and stocks, including variances and co-variances, et cetera. 
+
 
 
 
