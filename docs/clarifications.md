@@ -85,7 +85,7 @@ What is the tolerance for sum of probabilities?
 
 ### Resolution
 
-Five decimal places. 
+This is updated. Five decimal places. 
 
 
 
