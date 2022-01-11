@@ -34,6 +34,9 @@ Should the return formula be modified to account for shorts?
 
 We can't collect the -1 unless sum w_i=1 which is not true if there are shorts. 
 
+### Resolution:
+
+Formula is corrected and no longer assumes sum of weights is unity. 
 
 ## 2. Benchark portfolio
 
