@@ -16,6 +16,7 @@ It's just one big portfolio with both stocks and ETFs.
 
 ### Resolution:
 
+The example indicates that there is just one portfolio, though perhaps this might be clarified to remove any possible doubt.  
 
 ### Question 1(b)
 
