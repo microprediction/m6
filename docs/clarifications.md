@@ -79,6 +79,10 @@ At present the rules state that submissions not summing to unity will be disqual
 
 What is the tolerance for sum of probabilities? 
 
+### Resolution
+
+Five decimal places. 
+
 
 
 
