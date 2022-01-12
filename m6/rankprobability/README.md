@@ -4,3 +4,5 @@ Most functionality is drawn from the winning package. See the [notebook_examples
 
 Some M6-specific functionality may appear here. 
 
+However, the rules have changed since the first draft. Rather than estimating rank probabilities in groups of five, contestants must now provide quintile probabilities for all 100 assets. So this is no longer relevant. 
+
