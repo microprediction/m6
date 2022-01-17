@@ -1,0 +1,101 @@
+﻿id,class,symbol,name,GICS_sector/ETF_type,GICS_industry/ETF_subtype
+1,Stock,ABBV,AbbVie,Health Care,Pharmaceuticals
+2,Stock,ACN,Accenture,Information Technology,IT Consulting & Other Services
+3,Stock,AEP,American Electric Power,Utilities,Electric Utilities
+4,Stock,AIZ,Assurant,Financials,Multi-line Insurance
+5,Stock,ALLE,Allegion,Industrials,Building Products
+6,Stock,AMAT,Applied Materials,Information Technology,Semiconductor Equipment
+7,Stock,AMP,Ameriprise Financial,Financials,Asset Management & Custody Banks
+8,Stock,AMZN,Amazon,Consumer Discretionary,Internet & Direct Marketing Retail
+9,Stock,AVB,AvalonBay Communities,Real Estate,Residential REITs
+10,Stock,AVY,Avery Dennison,Materials,Paper Packaging
+11,Stock,AXP,American Express,Financials,Consumer Finance
+12,Stock,BDX,Becton Dickinson,Health Care,Health Care Equipment
+13,Stock,BF-B,Brown-Forman,Consumer Staples,Distillers & Vintners
+14,Stock,BMY,Bristol Myers Squibb,Health Care,Health Care Distributors
+15,Stock,BR,Broadridge Financial Solutions,Information Technology,Data Processing & Outsourced Services
+16,Stock,CARR,Carrier Global,Industrials,Building Products
+17,Stock,CDW,CDW,Information Technology,Technology Distributors
+18,Stock,CE,Celanese,Materials,Specialty Chemicals
+19,Stock,CHTR,Charter Communications,Communication Services,Cable & Satellite
+20,Stock,CNC,Centene,Health Care,Managed Health Care
+21,Stock,CNP,CenterPoint Energy,Utilities,Multi-Utilities
+22,Stock,COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production
+23,Stock,CTAS,Cintas Corporation,Industrials,Diversified Support Services
+24,Stock,CZR,Caesars Entertainment,Consumer Discretionary,Casinos & Gaming
+25,Stock,DG,Dollar General,Consumer Discretionary,General Merchandise Stores
+26,Stock,DPZ,Domino's Pizza,Consumer Discretionary,Restaurants
+27,Stock,DRE,Duke Realty Corp,Real Estate,Industrial REITs
+28,Stock,DXC,DXC Technology,Information Technology,IT Consulting & Other Services
+29,Stock,FB,Meta Platforms,Communication Services,Interactive Media & Services
+30,Stock,FTV,Fortive,Industrials,Industrial Machinery
+31,Stock,GOOG,Alphabet (Class C),Communication Services,Interactive Media & Services
+32,Stock,GPC,Genuine Parts,Consumer Discretionary,Specialty Stores
+33,Stock,HIG,The Hartford,Financials,Property & Casualty Insurance
+34,Stock,HST,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs
+35,Stock,JPM,JPMorgan Chase,Financials,Diversified Banks
+36,Stock,KR,Kroger,Consumer Staples,Food Retail
+37,Stock,OGN,Organon & Co.,Health Care,Pharmaceuticals
+38,Stock,PG,Procter & Gamble,Consumer Staples,Personal Products
+39,Stock,PPL,PPL,Utilities,Electric Utilities
+40,Stock,PRU,Prudential Financial,Financials,Life & Health Insurance
+41,Stock,PYPL,PayPal,Information Technology,Data Processing & Outsourced Services
+42,Stock,RE,Everest Re,Financials,Reinsurance
+43,Stock,ROL,Rollins,Industrials,Environmental & Facilities Services
+44,Stock,ROST,Ross Stores,Consumer Discretionary,Apparel Retail
+45,Stock,UNH,UnitedHealth Group,Health Care,Managed Health Care
+46,Stock,URI,United Rentals,Industrials,Trading Companies & Distributors
+47,Stock,V,Visa,Information Technology,Data Processing & Outsourced Services
+48,Stock,VRSK,Verisk Analytics,Industrials,Research & Consulting Services
+49,Stock,WRK,WestRock,Materials,Paper Packaging
+50,Stock,XOM,ExxonMobil,Energy,Integrated Oil & Gas
+51,ETF,IVV,iShares Core S&P 500 ETF,Equities,Large Cap-North America
+52,ETF,IWM,iShares Russell 2000 ETF,Equities,Small Cap-North America
+53,ETF,EWU,iShares MSCI United Kingdom ETF,Equities,Large Cap-Europe
+54,ETF,EWG,iShares MSCI Germany ETF,Equities,Large Cap-Europe
+55,ETF,EWL,iShares Msci Switzerland ETF,Equities,Large Cap-Europe
+56,ETF,EWQ,iShares MSCI France ETF,Equities,Large Cap-Europe
+57,ETF,IEUS,iShares MSCI Europe Small-Cap ETF,Equities,Small Cap-Europe
+58,ETF,EWJ,iShares MSCI Japan ETF,Equities,Large Cap-Asia
+59,ETF,EWT,iShares Msci Taiwan ETF,Equities,Large Cap-Asia
+60,ETF,MCHI,iShares MSCI China ETF,Equities,Large Cap-Asia
+61,ETF,INDA,iShares MSCI India ETF,Equities,Large Cap-Asia
+62,ETF,EWY,iShares Msci South Korea ETF,Equities,Large Cap-Asia
+63,ETF,EWA,iShares MSCI Australia ETF,Equities,Large Cap-Asia
+64,ETF,EWH,iShares MSCI Hong Kong ETF,Equities,Large Cap-Asia
+65,ETF,EWZ,iShares Msci Brazil ETF,Equities,Large Cap-South America
+66,ETF,EWC,iShares MSCI Canada ETF,Equities,Large Cap-North America
+67,ETF,IEMG,iShares Core MSCI Emerging Markets ETF,Equities,Large Cap-Global
+68,ETF,LQD,iShares iBoxx $ Inv Grade Corporate Bond ETF,Fixed Income,Credit-US
+69,ETF,HYG,iShares iBoxx $ High Yield Corporate Bond ETF,Fixed Income,Credit-US
+70,ETF,SHY,iShares 1-3 Year Treasury Bond ETF,Fixed Income,Govt-US
+71,ETF,IEF,iShares 7-10 Year Treasury Bond ETF,Fixed Income,Govt-US
+72,ETF,TLT,iShares 20 Plus Year Treasury Bond ETF,Fixed Income,Govt-US
+73,ETF,SEGA.L,iShares III Public Limited Company - iShares Core Euro Government Bond UCITS ETF,Fixed Income,Govt-Europe
+74,ETF,IEAA.L,iShares III Public Limited Company - iShares Core Euro Corporate Bond UCITS ETF,Fixed Income,Credit-Europe
+75,ETF,HIGH.L,iShares Public Limited Company - iShares Euro High Yield Corp Bond UCITS ETF,Fixed Income,Credit-Europe
+76,ETF,JPEA.L,iShares II Public Limited Company - iShares J.P. Morgan $ Emerging Markets Bond UCITS ETF,Fixed Income,Govt-Global
+77,ETF,IAU,iShares Gold Trust,Commodities,Precious Metals
+78,ETF,SLV,iShares Silver Trust,Commodities,Precious Metals
+79,ETF,GSG,iShares S&P GSCI Commodity-Indexed Trust ETF,Commodities,Diversified Commodity
+80,ETF,REET,iShares Global REIT ETF,Equities,Sector-Global
+81,ETF,ICLN,iShares Global Clean Energy ETF,Equities,Sector-Global
+82,ETF,IXN,iShares Global Tech ETF,Equities,Sector-Global
+83,ETF,IGF,iShares Global Infrastructure ETF,Equities,Sector-Global
+84,ETF,IUVL.L,iShares IV Public Limited Company - iShares Edge MSCI USA Value Factor UCITS ETF,Equities,Equity Style-North America
+85,ETF,IUMO.L,iShares Edge MSCI USA Momentum Factor ETF,Equities,Equity Style-North America
+86,ETF,SPMV.L,iShares VI Public Limited Company - iShares Edge S&P 500 Minimum Volatility UCITS ETF,Equities,Equity Style-North America
+87,ETF,IEVL.L,iShares IV Public Limited Company - iShares Edge MSCI Europe Value Factor UCITS ETF,Equities,Equity Style-Europe
+88,ETF,IEFM.L,iShares IV Public Limited Company - iShares Edge MSCI Europe Momentum Factor UCITS ETF,Equities,Equity Style-Europe
+89,ETF,MVEU.L,iShares VI Public Limited Company - iShares Edge MSCI Europe Minimum Volatility UCITS ETF,Equities,Equity Style-Europe
+90,ETF,XLK,Technology Select Sector SPDR Fund,Equities,Sector-US
+91,ETF,XLF,Financial Select Sector SPDR Fund,Equities,Sector-US
+92,ETF,XLV,Health Care Select Sector SPDR Fund,Equities,Sector-US
+93,ETF,XLE,Energy Select Sector SPDR Fund,Equities,Sector-US
+94,ETF,XLY,Consumer Discretionary Select Sector SPDR Fund,Equities,Sector-US
+95,ETF,XLI,Industrial Select Sector SPDR Fund,Equities,Sector-US
+96,ETF,XLC,Communication Services Select Sector SPDR Fund,Equities,Sector-US
+97,ETF,XLU,Utilities Select Sector SPDR Fund,Equities,Sector-US
+98,ETF,XLP,Consumer Staples Select Sector SPDR Fund,Equities,Sector-US
+99,ETF,XLB,Materials Select Sector SPDR Fund,Equities,Sector-US
+100,ETF,VXX,iPath Series B S&P 500 VIX Short-Term Futures ETN,Volatility,US
