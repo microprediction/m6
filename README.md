@@ -10,8 +10,21 @@ contest sponsors, [Intech Investments](https://www.intechinvestments.com/). Code
 - [Rule clarifications](https://github.com/microprediction/m6/blob/main/docs/clarifications.md)
 
 
-### Analytical tools for 5-way rank probabilities 
+### Example entry scripts
+See [precise/examples_m6](https://github.com/microprediction/precise/blob/main/examples_m6)
 
+    from precise.skatertools.m6.competition import m6_competition_entry
+    df = m6_competition_entry()
+
+This will choose from a hundred different ways of generating cov, and from a dozen different portfolio construction methods. Or you can specify. 
+
+### Example entry csv's
+See [precise/examples_m6/full](https://github.com/microprediction/precise/tree/main/examples_m6/full) for example .csv's to modify as you see fit. 
+
+
+
+### Analytical tools for 5-way rank probabilities 
+(no longer relevant, sorry)
 - Paper soon. See [notebook examples](https://github.com/microprediction/m6/tree/main/notebook_examples) 
 
 ### Python time-series packages 
