@@ -1,7 +1,6 @@
 # m6
 
-Some resources related to the M6-Forecasting competition. This site maintained by yours truly, an employee of one of the
-contest sponsors, [Intech Investments](https://www.intechinvestments.com/). Code is provided subject to the MIT License (and all disclaimers therein). Nothing here should be construed as investment advice, or even contest entry advice. Always refer to the official rules. 
+Some resources related to the M6-Forecasting competition. 
 
 ### Official rules & contest site
 
@@ -64,6 +63,11 @@ Ah well, in the first draft of this contest we were to rank 5 stocks 1..5. That'
 
 
 
+
+
+
+
+This site maintained by yours truly, an employee of one of [Intech Investments](https://www.intechinvestments.com/). Code is provided subject to the MIT License (and all disclaimers therein). Nothing here should be construed as investment advice, or even contest entry advice. Always refer to the official rules. 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
