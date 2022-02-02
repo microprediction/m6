@@ -16,7 +16,7 @@ See [precise/examples_m6](https://github.com/microprediction/precise/blob/main/e
     from precise.skatertools.m6.competition import m6_competition_entry
     df = m6_competition_entry()
 
-This will choose from a hundred different ways of generating cov, and from a dozen different portfolio construction methods. Or you can specify. 
+This will choose from dozens of different ways of estimating cov, and from a dozen different portfolio construction methods.  
 
 ### Example entry csv's
 See [precise/examples_m6/full](https://github.com/microprediction/precise/tree/main/examples_m6/full) for example .csv's to modify as you see fit. 
