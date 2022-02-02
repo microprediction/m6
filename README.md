@@ -10,7 +10,7 @@ contest sponsors, [Intech Investments](https://www.intechinvestments.com/). Code
 - [Rule clarifications](https://github.com/microprediction/m6/blob/main/docs/clarifications.md)
 
 
-### Example entry scripts
+### Example entries, and scripts 
 See [precise/examples_m6](https://github.com/microprediction/precise/blob/main/examples_m6)
 
     from precise.skatertools.m6.competition import m6_competition_entry
@@ -18,45 +18,49 @@ See [precise/examples_m6](https://github.com/microprediction/precise/blob/main/e
 
 This will choose from dozens of different ways of estimating cov, and from a dozen different portfolio construction methods.  
 
-### Example entry csv's
-See [precise/examples_m6/full](https://github.com/microprediction/precise/tree/main/examples_m6/full) for example .csv's to modify as you see fit. 
+See also [precise/examples_m6/full](https://github.com/microprediction/precise/tree/main/examples_m6/full) for example .csv's to modify as you see fit. 
 
 
+### Related literatures 
+A couple of bibliographies:
 
-### Analytical tools for 5-way rank probabilities 
-(no longer relevant, sorry)
-- Paper soon. See [notebook examples](https://github.com/microprediction/m6/tree/main/notebook_examples) 
+ - [precise/LITERATURE.md](https://github.com/microprediction/precise/blob/main/LITERATURE.md) 
+ - [precise/Refs](https://github.com/microprediction/precise/blob/main/Refs%20with%20abstracts_Covariances_Correlations_Vols-2022.pdf) 
+
+### My articles on M6 contest 
+
+- [How to train for the M6 Financial Foreasting Competition](https://microprediction.medium.com/six-ways-to-train-for-the-m6-financial-forecasting-competition-cacaf3af58b5)
+- [The future of forecasting competitions, according to the experts](https://www.microprediction.com/blog/future)
+
 
 ### Python time-series packages 
-See also [PYTHON_PACKAGES.md](https://github.com/microprediction/m6/blob/main/PYTHON_PACKAGES.md)
+Need to forecast something? 
 
-- [Elo ratings](https://microprediction.github.io/timeseries-elo-ratings/html_leaderboards/overall.html) of autonomous time-series prediction algorithms judged against live data. 
 - [Listing](https://www.microprediction.com/blog/popular-timeseries-packages) of popular Python time-series packages, including features, causality and so forth.
+- [Elo ratings](https://microprediction.github.io/timeseries-elo-ratings/html_leaderboards/overall.html) of autonomous time-series prediction algorithms judged against live data. 
 
-### Practice data 
-(PR's welcome)
+Note that the Elo ratings contain a "special" category that might be particularly relevant to M6. 
 
-Much more once the portfolios are announced. Stay tuned for [live streams](https://www.microprediction.org/browse_streams.html) and predictions of the same, if you suspect that short-horizon co-dependencies and volatilities might somehow relate to longer horizons. 
+### Live contests to practice on 
+
+Some of the [live streams](https://www.microprediction.org/browse_streams.html) at Microprediction.Org are good fodder for predicting volatilities, covariances, et cetera. See in particular: 
+
+- Crypto streams described [here](https://github.com/microprediction/microprediction/blob/master/stream_examples_crypto/README.md)
+- Anything starting with 'fathom' in this list [here](https://www.microprediction.org/browse_streams.html)
+- See the [daily $125 contest](https://www.microprediction.com/competitions/daily) for short-term distributional prediction of crypto-currencies and stocks, including variances and co-variances, et cetera. 
+
+
+### Random data to practice on 
 
 - [Public API](https://www.microprediction.com/public-api) for time-series
 - Example [csv](https://csv.microprediction.org/lagged?name=electricity-fueltype-nyiso-hydro.json)
 - [Tutorial](https://www.microprediction.com/python-3) on retrieving time-series data using microprediction package. 
 - [IEX](https://iexcloud.io/docs/api/) API and [example scripts](https://github.com/numerai/signals-example-scripts/blob/master/iexcloud/dividends.py) from Numerai
 
+### Analytical tools for 5-way rank probabilities ... for the M6 contest that wasn't :)
+Ah well, in the first draft of this contest we were to rank 5 stocks 1..5. That's no longer the case. However:
 
-### Articles 
-
-- [How to train for the M6 Financial Foreasting Competition](https://microprediction.medium.com/six-ways-to-train-for-the-m6-financial-forecasting-competition-cacaf3af58b5)
-- [The future of forecasting competitions, according to the experts](https://www.microprediction.com/blog/future)
-
-- [How Good is Your Algorithm at Predicting Stock Prices Really?](https://medium.com/adventures-in-data-science/how-good-is-your-algorithm-at-predicting-stock-prices-really-38a2d450c9eb)
-
-See [ARTICLES.md](https://github.com/microprediction/m6/blob/main/ARTICLES.md) for more. 
-
-### Practice contests
-
-- [Daily $125 contest](https://www.microprediction.com/competitions/daily) for short-term distributional prediction of crypto-currencies and stocks, including variances and co-variances, et cetera. 
-
+- Paper soon. See [notebook examples](https://github.com/microprediction/m6/tree/main/notebook_examples) 
 
 
 
