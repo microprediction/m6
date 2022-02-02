@@ -16,7 +16,8 @@ It's just one big portfolio with both stocks and ETFs.
 
 ### Resolution:
 
-The example indicates that there is just one portfolio, though perhaps this might be clarified to remove any possible doubt.  
+It's just one big portfolio with both stocks and ETFs.  
+  
 
 ### Question 1(b)
 
@@ -45,6 +46,7 @@ Why is the benchmark chosen to be the zero portfolio (rather than say, equal pos
 
 ### Resolution: 
 
+Portfolios must be defined away from the origin. 
 
 ## 3. Corporate events
 
