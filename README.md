@@ -2,6 +2,10 @@
 
 Some resources related to the M6-Forecasting competition. 
 
+### Best plot ever
+
+- [RPS time-series](https://rpubs.com/JB_Kurland/M6_Top25_RPS)
+
 ### Official rules & contest site
 
 - [Contest site](https://mofc.unic.ac.cy/the-m6-competition/)
