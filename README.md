@@ -2,6 +2,10 @@
 
 Some resources related to the M6-Forecasting competition. 
 
+### Methodologies of top performers
+
+- See [medium reading list](https://medium.com/@microprediction/list/m6-financial-forecasting-competition-2d50ce33b3bd)
+
 ### Best plot ever
 
 - [RPS time-series](https://rpubs.com/JB_Kurland/M6_Top25_RPS)
