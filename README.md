@@ -15,8 +15,11 @@ Not everything here is subject to posterior bias :)
 - See [medium reading list](https://medium.com/@microprediction/list/m6-financial-forecasting-competition-2d50ce33b3bd)  
 - See [M6-methods](https://github.com/Mcompetitions/M6-methods/tree/main) repo maintained by 
 
+### Organizers take
 
-### My remarks on the contest
+- See [working paper](https://arxiv.org/abs/2310.13357)
+
+### My take on the contest
 
 - See [article](https://medium.com/geekculture/the-options-market-beat-94-of-participants-in-the-m6-financial-forecasting-contest-fa4f47f57d33)
 
