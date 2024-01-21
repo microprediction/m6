@@ -18,8 +18,13 @@ Not everything here is subject to posterior bias :)
 ### Organizers take
 
 - See [working paper](https://arxiv.org/abs/2310.13357)
+- [Call for papers](https://www.sciencedirect.com/journal/international-journal-of-forecasting/about/call-for-papers#the-m6-forecasting-competition) before July 2024
+- Submit [here](https://www2.cloud.editorialmanager.com/ijf/default2.aspx)
 
 ### My take on the contest
 
 - See [article](https://medium.com/geekculture/the-options-market-beat-94-of-participants-in-the-m6-financial-forecasting-contest-fa4f47f57d33)
 
+### Data
+
+- See [data](https://github.com/microprediction/m6/tree/main/data) including submissions.csv which contains all submissions. 
